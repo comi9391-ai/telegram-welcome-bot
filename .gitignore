@@ -1,0 +1,3 @@
+meta_ads/.env
+*.csv
+__pycache__/
